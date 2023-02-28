@@ -1,4 +1,4 @@
-#!/home/lucky/kefas/venv/bin/python3
+#!/home/lucky/kefas/venv/bin/python3.11
 
 import sys
 import json
