@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-zp#6uk6t5a81(1ey7aj_$$h)i*(hm)x#3+^9al=d5=cgr(sev0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['env-kefas.eba-3evue7bd.us-west-2.elasticbeanstalk.com']
 
 
 # Application definition
